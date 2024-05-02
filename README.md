@@ -1,1 +1,1 @@
-https://vi5hal7.github.io/TOO-GOOD-Website--Day-1/
+OPEN:https://vi5hal7.github.io/TOO-GOOD-Website--Day-1/
