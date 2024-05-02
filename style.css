@@ -219,7 +219,7 @@ body {
     height: 30vh;
     text-align: center;
 text-transform: uppercase;
-font-family: futura
+font-family: futura;
 text-decoration: none;
 font-size: 50px;
 padding-top: 3vh;
@@ -393,7 +393,7 @@ margin-left: 75%
         width: 70%;
         position: absolute;
         z-index: 9;
-        background-color: rgb(229, 156, 186);
+        background-color: rgb(59, 59, 59);
 
     }
 
@@ -422,6 +422,8 @@ margin-left: 75%
     .child img {
         height: 100%;
     }
+
+
     #page4{
     height: 100vh;
     width: 100%;
@@ -498,7 +500,4 @@ margin-left: 75%
     font-size: 10px;
     padding-top: 1vh;
 }
-}
-
-
-
+        }
